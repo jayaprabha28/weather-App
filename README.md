@@ -69,3 +69,9 @@ Running Tests:
 
 npm test
 
+------------
+#Screenshort Output
+|![Screenshot 2024-10-14 193455](https://github.com/user-attachments/assets/ffcfeb12-0877-4298-86c3-d6d894758d31)
+![Screenshot 2024-10-14 193535](https://github.com/user-attachments/assets/577b40a5-4612-4141-8a7e-d16f7c89b2ea)
+![Screenshot 2024-10-14 193556](https://github.com/user-attachments/assets/40ccaea7-5ddb-4dd5-91af-99847e38d66c)
+
