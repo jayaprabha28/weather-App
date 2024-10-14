@@ -69,5 +69,11 @@ Running Tests:
 
 npm test
 
+![Screenshot 2024-10-14 190332](https://github.com/user-attachments/assets/eaca3236-fca0-4f58-961c-a9e198571025)
+![Screenshot 2024-10-14 190432](https://github.com/user-attachments/assets/387891f8-0cc8-4a54-b795-d105b3634cd3)
+![Screenshot 2024-10-14 190451](https://github.com/user-attachments/assets/e24df225-a61b-4e3b-8eb8-d81b1dcac38c)
+![Screenshot 2024-10-14 190505](https://github.com/user-attachments/assets/a79bd963-6e06-49b1-9df2-436c0076972d)
+![Screenshot 2024-10-14 190533](https://github.com/user-attachments/assets/a707761f-45c4-4d49-bc5d-edfeade4102c)
+![Screenshot 2024-10-14 190649](https://github.com/user-attachments/assets/3e50bf65-8a9f-4dea-934d-82f356e4eeb1)
 
 
